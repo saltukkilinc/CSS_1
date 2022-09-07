@@ -1,2 +1,2 @@
 # CSS_1
-HTML+CSS projelerini içermektedir
+# Ayakkabıcım isminde bir işletmeye ait ana sayfa, iletişim ve hakkımızda kısımlarından oluşan web sitesi
